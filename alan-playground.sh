@@ -2,7 +2,9 @@
 
 rm -rf compiler
 rm bundle.js
-git clone git@github.com:alantech/alan.git
+git clone https://github.com/alantech/alan.git
+cd alan
+git checkout v0.1
 cd alan/compiler
 yarn install
 yarn bundle
