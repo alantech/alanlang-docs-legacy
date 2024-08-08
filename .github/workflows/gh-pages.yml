@@ -20,6 +20,9 @@ jobs:
           mdbook-version: '0.4.10'
           # mdbook-version: 'latest'
 
+      # Bundle alan compiler and js-runtime
+      - run: bash alan-playground.sh
+
       - run: mdbook build
 
       - name: Deploy
