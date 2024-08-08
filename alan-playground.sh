@@ -5,7 +5,7 @@ rm bundle.js
 git clone https://github.com/alantech/alan.git
 cd alan
 git checkout v0.1
-cd alan/compiler
+cd compiler
 yarn install
 yarn bundle
 cd ../..
