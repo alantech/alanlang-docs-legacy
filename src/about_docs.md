@@ -9,7 +9,7 @@
   <tbody>
     <tr>
       <td>
-        This documentation is for the [legacy v0.1 Alan codebase](https://github.com/alantech/alan/tree/v0.1). The language has been rewritten with a different focus and this version is no longer supported.
+        This documentation is for the <a href="https://github.com/alantech/alan/tree/v0.1">legacy v0.1 Alan codebase</a>. The language has been rewritten with a different focus and this version is no longer supported.
       </td>
     </tr>
   </tbody>
