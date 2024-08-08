@@ -1,10 +1,19 @@
 # About the documentation
 
-<div class="warning">
-
-This documentation is for the [legacy v0.1 Alan codebase](https://github.com/alantech/alan/tree/v0.1). The language has been rewritten with a different focus and this version is no longer supported.
-
-</div>
+<table>
+  <thead>
+    <tr>
+      <td>Warning</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        This documentation is for the [legacy v0.1 Alan codebase](https://github.com/alantech/alan/tree/v0.1). The language has been rewritten with a different focus and this version is no longer supported.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 A high-level overview of [how the Alan documentation organized](https://documentation.divio.com/) will help you know how to quickly find what you are looking for:
 
